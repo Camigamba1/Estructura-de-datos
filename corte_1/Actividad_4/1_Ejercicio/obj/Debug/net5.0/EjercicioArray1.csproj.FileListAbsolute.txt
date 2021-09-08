@@ -1,0 +1,16 @@
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\EjercicioArray1.exe
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\EjercicioArray1.deps.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\EjercicioArray1.runtimeconfig.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\EjercicioArray1.runtimeconfig.dev.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\EjercicioArray1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\ref\EjercicioArray1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\bin\Debug\net5.0\EjercicioArray1.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.AssemblyInfo.cs
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\ref\EjercicioArray1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray1\obj\Debug\net5.0\EjercicioArray1.genruntimeconfig.cache
