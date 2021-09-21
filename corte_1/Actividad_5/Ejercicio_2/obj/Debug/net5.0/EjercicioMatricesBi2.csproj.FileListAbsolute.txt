@@ -1,0 +1,16 @@
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\EjercicioMatricesBi2.exe
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\EjercicioMatricesBi2.deps.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\EjercicioMatricesBi2.runtimeconfig.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\EjercicioMatricesBi2.runtimeconfig.dev.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\EjercicioMatricesBi2.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\ref\EjercicioMatricesBi2.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\bin\Debug\net5.0\EjercicioMatricesBi2.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.AssemblyInfo.cs
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\ref\EjercicioMatricesBi2.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi2\obj\Debug\net5.0\EjercicioMatricesBi2.genruntimeconfig.cache
